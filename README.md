@@ -58,3 +58,4 @@ MATLAB implementation of Steepest Descent, Newton's Method, and Levenberg-Marqua
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square)](mailto:eleanazeri0362@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/eleanazeri)
