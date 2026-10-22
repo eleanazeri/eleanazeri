@@ -7,7 +7,7 @@ Aristotle University of Thessaloniki &nbsp;·&nbsp; Thessaloniki, Greece
 
 ## 👩‍💻 About
 
-Fifth-year MEng student at AUTH, currently writing a diploma thesis on edge/fog resource management using Small Language Models and episodic memory. Alongside this, working as a Data Scientist, building large-scale behavioral analytics and predictive-modeling pipelines on Azure Databricks. Background spans full-stack web development, applied ML, and digital hardware design.
+Final-year MEng student at AUTH, currently completing my diploma thesis on edge resource management using Small Language Models and Episodic Memory Techniques. Alongside this, currently working as a Data Scientist, building large-scale behavioral analytics and predictive-modeling pipelines on Azure Databricks. Background spans full-stack web development, applied ML, and digital hardware design.
 
 ---
 
@@ -23,7 +23,7 @@ Building a fog-computing orchestrator that uses a locally-deployed 1.5B Small La
 ## 💼 Experience
 
 **Data Scientist** &nbsp;·&nbsp; *Behavioral Segmentation & Predictive Modeling*  
-Building large-scale behavioral analytics pipelines on Azure Databricks (PySpark, Spark SQL, Delta Lake) over multi-year transactional data; engineering behavioral features for customer segmentation, change-point detection, and clustering/propensity analysis across multiple markets.
+Building large-scale behavioral analytics pipelines on Azure Databricks (PySpark, Spark SQL, Delta Lake) over multi-year transactional data, engineering behavioral features for customer segmentation, change-point detection, and clustering/propensity analysis across multiple markets.
 
 ---
 
